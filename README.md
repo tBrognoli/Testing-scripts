@@ -1,6 +1,4 @@
-# Testing-scripts
-
-Installation:
+# Installation:
 
 Clone Project:
 git clone https://github.com/tBrognoli/Testing-scripts.git
